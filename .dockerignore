@@ -1,0 +1,11 @@
+# Git repository
+.git/
+.gitignore
+
+# Common
+.eslintrc.json
+Dockerfile
+README.md
+
+# External libraries
+node_modules/

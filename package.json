@@ -1,0 +1,23 @@
+{
+	"name": "passport-saml-metadata",
+	"version": "0.0.1",
+	"description": "SAML IdP metadata parser for passport library",
+	"main": "./lib/index.mjs",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"SAML",
+		"metadata",
+		"passport"
+	],
+	"author": "David Herman david.herman@circularo.com",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^8.57.0",
+		"eslint-plugin-promise": "^6.1.1"
+	},
+	"dependencies": {
+		"fast-xml-parser": "^4.3.6"
+	}
+}
